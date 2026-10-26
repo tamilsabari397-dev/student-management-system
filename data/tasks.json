@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Calculus Homework Chapter 4",
+    "subject": "Mathematics",
+    "category": "Assignment",
+    "due_date": "2026-10-28",
+    "priority": "high",
+    "status": "pending",
+    "description": "Complete problem sets 4.1 to 4.5 on differential equations.",
+    "created_at": "2026-10-26T08:00:00.000Z",
+    "updated_at": "2026-10-26T08:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Read Clean Code Chapters 1-3",
+    "subject": "Software Engineering",
+    "category": "Book",
+    "due_date": "2026-10-30",
+    "priority": "medium",
+    "status": "pending",
+    "description": "Read foundational principles of clean architecture and meaningful names.",
+    "created_at": "2026-10-26T08:15:00.000Z",
+    "updated_at": "2026-10-26T08:15:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Physics Lab Report: Optics",
+    "subject": "Physics",
+    "category": "Assignment",
+    "due_date": "2026-10-27",
+    "priority": "high",
+    "status": "pending",
+    "description": "Submit lab observation report with refractive index calculations.",
+    "created_at": "2026-10-26T08:30:00.000Z",
+    "updated_at": "2026-10-26T08:30:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "Database Normalization Quiz Prep",
+    "subject": "Database Systems",
+    "category": "Exam",
+    "due_date": "2026-10-31",
+    "priority": "medium",
+    "status": "pending",
+    "description": "Review 1NF, 2NF, 3NF and BCNF normalization rules and examples.",
+    "created_at": "2026-10-26T08:45:00.000Z",
+    "updated_at": "2026-10-26T08:45:00.000Z"
+  },
+  {
+    "id": 5,
+    "title": "Biology Research Proposal Draft",
+    "subject": "Biology",
+    "category": "Project",
+    "due_date": "2026-10-25",
+    "priority": "low",
+    "status": "completed",
+    "description": "Finalize proposal draft on cellular respiration mechanisms.",
+    "created_at": "2026-10-25T09:00:00.000Z",
+    "updated_at": "2026-10-26T09:30:00.000Z"
+  },
+  {
+    "id": 6,
+    "title": "Linear Algebra Matrix Quiz Review",
+    "subject": "Mathematics",
+    "category": "Daily Task",
+    "due_date": "2026-10-24",
+    "priority": "medium",
+    "status": "completed",
+    "description": "Reviewed eigenvalues, eigenvectors, and Gaussian elimination.",
+    "created_at": "2026-10-24T10:00:00.000Z",
+    "updated_at": "2026-10-25T11:00:00.000Z"
+  }
+]

@@ -317,7 +317,7 @@ A unique engineering feature of this codebase is **Zero-Crash Graceful Degradati
 
 ## 👨‍💻 Author & Acknowledgments
 
-- **Developer**: Sabari ([@tamilsabari397-dev](https://github.com/tamilsabari397-dev))
+- **Developer**: nandha ([@nandha397-dev](https://github.com/tamilsabari397-dev))
 - **Institution**: Sri Sai Ram Engineering College, Chennai - 600 044
 - **Department**: Department of Information Technology
 
